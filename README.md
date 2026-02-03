@@ -8,4 +8,4 @@ This contains the official legal documentation for the **Ankan Tuli Art Centre**
 * [Delete Account](./delete-account.md)
 
 ---
-*Last Updated: January 31, 2026*
+*Last Updated: 3rd Feb, 2026*
