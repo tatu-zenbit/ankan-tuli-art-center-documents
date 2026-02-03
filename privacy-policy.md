@@ -3,13 +3,13 @@ layout: default
 title: Privacy Policy
 ---
 
-# Privacy Policy for Ankan Tuli Art Center
+# Privacy Policy for Ankan Tuli Art Centre
 **Last Updated:** January 31, 2026
 
 ---
 
 ## 1. Introduction
-Welcome to the **Ankan Tuli Art Center** app. We are committed to protecting your personal information and your right to privacy. This Privacy Policy explains how we collect, use, and safeguard your data when you use our mobile application.
+Welcome to the **Ankan Tuli Art Centre** app. We are committed to protecting your personal information and your right to privacy. This Privacy Policy explains how we collect, use, and safeguard your data when you use our mobile application.
 
 ## 2. Information We Collect
 We collect information that you provide directly to us through the app:
