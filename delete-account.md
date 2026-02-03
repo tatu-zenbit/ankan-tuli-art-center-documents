@@ -4,7 +4,7 @@ title: Data Deletion Request
 ---
 
 # Account and Data Deletion
-**Ankan Tuli Art Center**
+**Ankan Tuli Art Centre**
 
 We value your privacy. If you wish to delete your account and remove your personal data from our systems, please follow the steps below.
 
