@@ -4,7 +4,7 @@ title: Privacy Policy
 ---
 
 # Privacy Policy for Ankan Tuli Art Centre
-**Last Updated:** January 31, 2026
+**Last Updated:** February 3, 2026
 
 ---
 
